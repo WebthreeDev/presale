@@ -1,5 +1,5 @@
 "use strict";
-const presaleContractHash = "0x46E71304406c607e28c310AceF02f9FfEEB664Fe#code"
+const presaleContractHash = "0x46E71304406c607e28c310AceF02f9FfEEB664Fe"
 let bnbOwed = 0;
 const tokensPerBnb = 38000;
 var isWhitelisted = true;

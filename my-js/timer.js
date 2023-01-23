@@ -1,6 +1,6 @@
 
 function startTimers() {
-    doTmr(new Date('1/23/2023 21:00:00 UTC'), "tmr-starts", "Presale has STARTED. Refresh website!", true);
+    doTmr(new Date('1/23/2023 20:00:00 UTC'), "tmr-starts", "Presale has STARTED. Refresh website!", true);
     // doTmr(new Date('1/25/2023 16:30:00 UTC'), "tmr-public", "Presale is PUBLIC");
     // doTmr(new Date('12/25/2023 16:00:00 UTC'), "tmr-ends", "Presale has ENDED! <br/> Launch Tomorrow 11pm UTC", true);
 }
